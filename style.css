@@ -16,6 +16,10 @@ body, html {
 	font-weight: 200;
 }
 
+.bx-wrapper {
+	margin: 0 auto;
+}
+
 .header__logo {
 	font-family: "Montserrat", sans-serif;
 	font-size: 25px;
